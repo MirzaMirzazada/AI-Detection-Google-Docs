@@ -26,7 +26,7 @@ An AI-assisted authorship analysis tool that analyzes Google Docs content and re
 ## Setup
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/MirzaMirzazada/AI-Detection-Google-Docs
 cd AI-Detection-Google-Docs
 
 python -m venv venv
